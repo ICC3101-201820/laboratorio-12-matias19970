@@ -12,6 +12,7 @@ using Modelo;
 namespace MVC
 {
     public delegate void AgregarComidaDelegate(string nombre, int carbohidratos, int proteinas, int grasas);
+    public delegate void EliminarComidaDelegate(Comida comida);
 
     public partial class Form1 : Form
     {
@@ -38,6 +39,11 @@ namespace MVC
         }
 
         public void AgregarComida(Comida comida)
+        {
+            comidasList.Items.Add(comida);
+        }
+
+        public void EliminarComida(Comida comida)
         {
             comidasList.Items.Add(comida);
         }
