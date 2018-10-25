@@ -1,0 +1,13 @@
+C:\Users\matia\Desktop\mvc-delegates-propios-master\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+C:\Users\matia\Desktop\mvc-delegates-propios-master\MVC\obj\Debug\MVC.Form1.resources
+C:\Users\matia\Desktop\mvc-delegates-propios-master\MVC\obj\Debug\MVC.Properties.Resources.resources
+C:\Users\matia\Desktop\mvc-delegates-propios-master\MVC\obj\Debug\MVC.csproj.GenerateResource.cache
+C:\Users\matia\Desktop\mvc-delegates-propios-master\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\mvc-delegates-propios-master\MVC\bin\Debug\MVC.exe.config
+C:\Users\matia\Desktop\mvc-delegates-propios-master\MVC\bin\Debug\MVC.exe
+C:\Users\matia\Desktop\mvc-delegates-propios-master\MVC\bin\Debug\MVC.pdb
+C:\Users\matia\Desktop\mvc-delegates-propios-master\MVC\bin\Debug\Modelo.dll
+C:\Users\matia\Desktop\mvc-delegates-propios-master\MVC\bin\Debug\Modelo.pdb
+C:\Users\matia\Desktop\mvc-delegates-propios-master\MVC\obj\Debug\MVC.csproj.CopyComplete
+C:\Users\matia\Desktop\mvc-delegates-propios-master\MVC\obj\Debug\MVC.exe
+C:\Users\matia\Desktop\mvc-delegates-propios-master\MVC\obj\Debug\MVC.pdb
